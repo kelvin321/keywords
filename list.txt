@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/kelvin321/keywords/master/keywords1.txt
+https://raw.githubusercontent.com/kelvin321/keywords/master/keywords2.txt
+https://raw.githubusercontent.com/kelvin321/keywords/master/keywords3.txt
